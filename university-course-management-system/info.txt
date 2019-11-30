@@ -1,0 +1,9 @@
+The topic of the project: University Course Management System
+
+Files needed to run the code properly: course.data (otherwise previously created courses will not be displayed but admin can still create),
+				       users.data (otherwise previously defined instructors will not be displayed but admin can still define)
+
+Username of admin: admin	Password: 1234
+
+Username of instructor (IE): instructor_ie	Password: 1
+Username of instructor (SE): instructor_se	Password: 1
